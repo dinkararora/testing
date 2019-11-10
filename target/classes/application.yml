@@ -1,0 +1,13 @@
+server:
+  port: 8098
+#  servlet:
+#    context-path: /testing
+#
+#spring:
+#  application:
+#    name: testing
+#
+#logging:
+#  level:
+#    ROOT: ERROR
+#    com.testing.ai: DEBUG
